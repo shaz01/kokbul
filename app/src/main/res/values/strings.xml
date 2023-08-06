@@ -10,4 +10,5 @@
     <string name="preferences">Ayarlar</string>
     <string name="stats">İstatistikler</string>
     <string name="stats_expl">Doğru: %d, Yanlış: %d, Toplam: %d</string>
+    <string name="github">Github</string>
 </resources>
