@@ -1,0 +1,50 @@
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("Na", "Sodyum", "Plus1", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("Li", "Lityum", "Plus1", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("K", "Potasyum", "Plus1", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("Ag", "Gümüş", "Plus1", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("Mg", "Magnezyum", "Plus2", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("Ca", "Kalsiyum", "Plus2", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("Zn", "Çinko", "Plus2", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("Be", "Berilyum", "Plus2", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("Ba", "Baryum", "Plus2", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("Al", "Aluminyum", "Plus3", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("Cu", "Bakır", "Plus1or2", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("Hg", "Civa", "Plus1or2", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("Fe", "Demir", "Plus2or3", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("Co", "Kobalt", "Plus2or3", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("Ni", "Nikel", "Plus2or3", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("Pb", "Kurşun", "Plus2or4", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("Sn", "Kalay", "Plus2or4", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("F", "Florür", "Minus1", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("Cl", "Klorür", "Minus1", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("Br", "Bromür", "Minus1", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("I", "İyodür", "Minus1", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("O", "Oksit", "Minus2", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("S", "Sülfür", "Minus2", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("P", "Fosfür", "Minus3", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("N", "Nitrür", "Minus3", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("OH", "Hidroksit", "Minus1", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("NO₃", "Nitrat", "Minus1", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("NO₂", "Nitrit", "Minus1", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("CN", "Siyanür", "Minus1", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("HCO₃", "Bikarbonat", "Minus1", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("MnO₄", "Permaganat", "Minus1", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("CH₃COO", "Asetat", "Minus1", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("SO₄", "Sülfat", "Minus2", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("SO₃", "Sülfit", "Minus2", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("C₂O₄", "Oksalat", "Minus2", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("CrO₄", "Kromat", "Minus2", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("Cr₂O₇", "Dikromat", "Minus2", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("S₂O₃", "Tiyosülfat", "Minus2", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("MnO₄", "Manganat", "Minus2", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("CO₃", "Karbonat", "Minus2", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("NH₄", "Amonyum", "Plus1", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("H₃0", "Hidronyum", "Plus1", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("PO₄", "Fosfat", "Minus3", 0);
+INSERT INTO IonData (name, knownAs, ion, timesAnswered) VALUES("PO₃", "Fosfit", "Minus3", 0);
+
+
+
+name
+name ion id timesAnswered knownAs
+name knownAs ion

@@ -1,0 +1,13 @@
+<!--
+  ~ Copyright (c) 2023 Olcay Aras.
+  -->
+
+<resources>
+    <string name="app_name">kökbul</string>
+    <string name="back">Geri</string>
+    <string name="play">Oyna</string>
+    <string name="next">Sonraki</string>
+    <string name="preferences">Ayarlar</string>
+    <string name="stats">İstatistikler</string>
+    <string name="stats_expl">Doğru: %d, Yanlış: %d, Toplam: %d</string>
+</resources>
